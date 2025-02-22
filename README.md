@@ -6,7 +6,7 @@
 
 1. 修改url.txt中的url，示例中的是
 
-   ![image-20250222124804873](imgs\image.png)
+   ![image-20250222124804873](imgs/image.png)
 
    这个网页的URL
 
